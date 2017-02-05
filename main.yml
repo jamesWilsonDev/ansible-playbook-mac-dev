@@ -11,7 +11,7 @@
         - ../config.yml
 
   roles:
-    - ansible-role-dotfiles
+     - ansible-role-dotfiles
     - ansible-role-homebrew
     - ansible-role-sublimetext
     - ansible-role-mas

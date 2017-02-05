@@ -161,7 +161,7 @@ homebrew_cask_apps:
   - cyberduck
   - docker
   - dropbox
-  - fantastical
+  # - fantastical
   - firefox
   # - flux
 #  - gas-mask
@@ -175,14 +175,14 @@ homebrew_cask_apps:
   - iterm2
   # - istat-menus
   - java
-  - jump-desktop
+  # - jump-desktop
   # - joinme
   - kitematic
   # - kindle
   # - limechat
   - omnigraffle
   - pgadmin4
-  - postico
+  #- postico
   - postman
   - powershell
   - pycharm
@@ -193,7 +193,7 @@ homebrew_cask_apps:
   - sourcetree
   - sublime-text
   # - tomighty
-  - transmit
+  # - transmit
   # - tunnelblick
   - vagrant
   - virtualbox
