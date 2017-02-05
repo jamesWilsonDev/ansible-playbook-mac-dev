@@ -39,7 +39,7 @@ homebrew_installed_packages:
   - autojump
   - bash
   - bash-completion
-  - battery
+  # - battery
   - bfg
   - cowsay
   - ctags
@@ -52,7 +52,7 @@ homebrew_installed_packages:
   - duti
   - enca
   - fasd
-  - fish
+  # - fish
   - freetds
   - gdbm
   - geoip
@@ -150,36 +150,36 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - alfred
+#  - alfred
 #  - amazon-workdocs # broken installer?
   - amazon-workspaces
-  - atom
+#  - atom
   - caffeine
-  - charles
+#  - charles
   - clipmenu
-  - coconutbattery
+#  - coconutbattery
   - cyberduck
   - docker
   - dropbox
   - fantastical
   - firefox
-  - flux
-  - gas-mask
-  - gitter
+  # - flux
+#  - gas-mask
+#  - gitter
   - github-desktop
-  - google-chrome
+#  - google-chrome
   - google-drive
   - google-hangouts
-  - handbrake
+  # - handbrake
   - intellij-idea
   - iterm2
-  - istat-menus
+  # - istat-menus
   - java
   - jump-desktop
-  - joinme
+  # - joinme
   - kitematic
-  - kindle
-  - limechat
+  # - kindle
+  # - limechat
   - omnigraffle
   - pgadmin4
   - postico
@@ -192,19 +192,19 @@ homebrew_cask_apps:
   - slack
   - sourcetree
   - sublime-text
-  - tomighty
+  # - tomighty
   - transmit
-  - tunnelblick
+  # - tunnelblick
   - vagrant
   - virtualbox
   - visual-studio-code
-  - wifi-explorer
+  # - wifi-explorer
   - vlc
 
 
 # Vim config
-vundle_repo: https://github.com/gmarik/Vundle.vim.git
-vundle_repo_accept_hostkey: yes
+# vundle_repo: https://github.com/gmarik/Vundle.vim.git
+# vundle_repo_accept_hostkey: yes
 
 
 # Prompt config
@@ -455,25 +455,23 @@ sublime_packages:
 
 mas_installed_app_ids:
       - 497799835 # Xcode (8.1)
-      - 824183456 # Affinity Photo (purchase)
+      # - 824183456 # Affinity Photo (purchase)
       - 405399194 # Kindle
-      - 824171161 # Affinity Designer (purchase)
-      - 407963104 # Pixelmator (purchase)
+      # - 824171161 # Affinity Designer (purchase)
+      # - 407963104 # Pixelmator (purchase)
       - 937984704 # Amphetamine
       - 411246225 # Caffeine
       - 852320343 # Sketch
       - 441258766 # Magnet
-      - 524141863 # Jump Desktop (purchase)
+      # - 524141863 # Jump Desktop (purchase)
       - 715768417 # Microsoft Remote Desktop
-      - 961632517 # Be Focused Pro (purchase)
-      - 449589707 # Dash (purchase)
-      - 441258766 # Magnet (purchase)
+      # - 961632517 # Be Focused Pro (purchase)
+      # - 449589707 # Dash (purchase)
+      # - 441258766 # Magnet (purchase)
       - 406056744 # Evernote
-      - 918858936 # Airmail (purchase)
+      # - 918858936 # Airmail (purchase)
       - 823766827 # Onedrive
-      - 975937182 # Fantastical 2 (purchase)
-      - 1088791669 # Kidslox
+      # - 975937182 # Fantastical 2 (purchase)
+      # - 1088791669 # Kidslox
       - 408981434 # iMovie
       - 409183694 # keynote
-
-
