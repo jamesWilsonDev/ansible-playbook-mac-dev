@@ -181,7 +181,7 @@ homebrew_cask_apps:
   # - kindle
   # - limechat
   #  - omnigraffle
-  - pgadmin4
+  #- pgadmin4
   #- postico
   - postman
   - powershell
@@ -203,8 +203,8 @@ homebrew_cask_apps:
 
 
 # Vim config
-# vundle_repo: https://github.com/gmarik/Vundle.vim.git
-# vundle_repo_accept_hostkey: yes
+vundle_repo: https://github.com/gmarik/Vundle.vim.git
+vundle_repo_accept_hostkey: yes
 
 
 # Prompt config
