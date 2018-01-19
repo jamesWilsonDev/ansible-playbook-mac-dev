@@ -180,7 +180,7 @@ homebrew_cask_apps:
   #  - kitematic
   # - kindle
   # - limechat
-  - omnigraffle
+  #  - omnigraffle
   - pgadmin4
   #- postico
   - postman
