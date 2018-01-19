@@ -166,18 +166,18 @@ homebrew_cask_apps:
   # - flux
 #  - gas-mask
 #  - gitter
-  - github-desktop
-  - google-chrome
-  - google-drive
+#  - github-desktop
+#  - google-chrome
+#  - google-drive
   - google-hangouts
   # - handbrake
-  - intellij-idea
+  #  - intellij-idea
   - iterm2
   # - istat-menus
   - java
   # - jump-desktop
   # - joinme
-  - kitematic
+  #  - kitematic
   # - kindle
   # - limechat
   - omnigraffle
@@ -189,7 +189,7 @@ homebrew_cask_apps:
   - sequel-pro
   # - skype
   - skitch
-  - slack
+    #  - slack
   - sourcetree
   - sublime-text
   # - tomighty
