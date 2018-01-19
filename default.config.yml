@@ -4,25 +4,25 @@ downloads: ~/.ansible-downloads/
 configure_sudoers: no
 
 # Install dotfiles from a git repo
-dotfiles_repo: https://github.com/bmacauley/dotfiles.git
-dotfiles_repo_accept_hostkey: yes
-dotfiles_repo_local_destination: ~/.dotfiles
-dotfiles_files:
-  - .aliases
+#dotfiles_repo: https://github.com/bmacauley/dotfiles.git
+#dotfiles_repo_accept_hostkey: yes
+#dotfiles_repo_local_destination: ~/.dotfiles
+#dotfiles_files:
+#  - .aliases
 # - .bash_profile
 # - .bashrc
 # - .bash_prompt
-  - .editorconfig
-  - .functions
-  - .gitconfig
-  - .gitignore
-  - .hushlogin
-  - .macos
-  - .paths
-  - .tmux.conf
-  - .vim
-  - .vimrc
-  - .tmux.conf
+#  - .editorconfig
+#  - .functions
+#  - .gitconfig
+#  - .gitignore
+#  - .hushlogin
+#  - .macos
+#  - .paths
+#  - .tmux.conf
+#  - .vim
+#  - .vimrc
+#  - .tmux.conf
 #  - .zprofile
 #  - .zshrc
 #  - .zsh_prompt
